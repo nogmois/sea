@@ -15,7 +15,7 @@ Clone o repositório e configure o ambiente de desenvolvimento:
 
 ```bash
 # Clone o repositório
-git clone url_do_seu_projeto
+git clone https://github.com/nogmois/sea.git
 
 # Entre no diretório do projeto
 cd seazone_project
