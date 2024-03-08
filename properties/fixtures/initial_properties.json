@@ -1,0 +1,48 @@
+[
+    {
+      "model": "properties.property",
+      "pk": 1,
+      "fields": {
+        "name": "Beach House",
+        "address": "123 Ocean View",
+        "description": "Beautiful beach house with ocean view."
+      }
+    },
+    {
+      "model": "properties.property",
+      "pk": 2,
+      "fields": {
+        "name": "Mountain Cabin",
+        "address": "456 Mountain Road",
+        "description": "Cozy cabin in the mountains, perfect for a weekend getaway."
+      }
+    },
+    {
+      "model": "properties.property",
+      "pk": 3,
+      "fields": {
+        "name": "City Apartment",
+        "address": "789 City Center Ave",
+        "description": "Modern apartment in the heart of the city, close to shopping and nightlife."
+      }
+    },
+    {
+      "model": "properties.property",
+      "pk": 4,
+      "fields": {
+        "name": "City Apartment Cabin",
+        "address": "79 Center Ave",
+        "description": "Modern apartment in the heart of the city, close to shopping and nightlife."
+      }
+    },
+    {
+      "model": "properties.property",
+      "pk": 5,
+      "fields": {
+        "name": "City Apartment",
+        "address": "9 City Center",
+        "description": "Modern apartment in the heart of the city, close to shopping and nightlife."
+      }
+    }
+]
+  

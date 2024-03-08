@@ -1,0 +1,29 @@
+[
+    {
+        "model": "advertisements.advertisement",
+        "pk": 1,
+        "fields": {
+          "property": 1,
+          "title": "Summer Sale - Beach House",
+          "price": 200.00
+        }
+    },
+    {
+        "model": "advertisements.advertisement",
+        "pk": 2,
+        "fields": {
+          "property": 2,
+          "title": "Mountain Cabin Escape",
+          "price": 150.00
+        }
+    },
+    {
+        "model": "advertisements.advertisement",
+        "pk": 3,
+        "fields": {
+          "property": 3,
+          "title": "City Apartment in Prime Location",
+          "price": 250.00
+        }
+    }  
+]
